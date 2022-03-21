@@ -1,0 +1,21 @@
+// first half from 1-15 points
+e5f2d36 (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+e4c9de2 HEAD@{1}: checkout: moving from develop to master
+e5f2d36 (HEAD -> master, develop) HEAD@{2}: commit: added file logs
+e4c9de2 HEAD@{3}: checkout: moving from master to develop
+e4c9de2 HEAD@{4}: merge develop: Fast-forward
+4496e15 HEAD@{5}: checkout: moving from develop to master
+e4c9de2 HEAD@{6}: checkout: moving from master to develop
+4496e15 HEAD@{7}: checkout: moving from develop to master
+e4c9de2 HEAD@{8}: commit (merge): fixed merge issue
+e215760 (feature1) HEAD@{9}: merge feature1: Fast-forward
+6fb786b HEAD@{10}: checkout: moving from feature2 to develop
+6ef739e (feature2) HEAD@{11}: commit: added background color to 'body' block
+6fb786b HEAD@{12}: checkout: moving from develop to feature2
+6fb786b HEAD@{13}: checkout: moving from feature1 to develop
+e215760 (feature1) HEAD@{14}: commit: added images in the index.html file
+97618f1 HEAD@{15}: commit: added folder with pictures and .gitignore file
+6fb786b HEAD@{16}: checkout: moving from develop to feature1
+6fb786b HEAD@{17}: commit: added file 'index.html
+4496e15 HEAD@{18}: checkout: moving from master to develop
+4496e15 HEAD@{19}: commit (initial): added new file 'readme.md'
