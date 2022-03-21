@@ -19,3 +19,29 @@ e215760 (feature1) HEAD@{14}: commit: added images in the index.html file
 6fb786b HEAD@{17}: commit: added file 'index.html
 4496e15 HEAD@{18}: checkout: moving from master to develop
 4496e15 HEAD@{19}: commit (initial): added new file 'readme.md'
+
+// second half from 1-15 points
+
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{0}: checkout: moving from feature4 to master
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{1}: checkout: moving from feature3 to feature4
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{2}: merge develop: Fast-forward
+79fa2e8 HEAD@{3}: checkout: moving from feature2 to feature3
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{4}: merge develop: Fast-forward
+6ef739e HEAD@{5}: checkout: moving from feature1 to feature2
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{6}: merge develop: Fast-forward
+e215760 HEAD@{7}: checkout: moving from master to feature1
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{8}: merge develop: Fast-forward
+79fa2e8 HEAD@{9}: checkout: moving from develop to master
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{10}: merge feature4: Fast-forward
+79fa2e8 HEAD@{11}: checkout: moving from master to develop
+79fa2e8 HEAD@{12}: merge develop: Fast-forward
+199e988 HEAD@{13}: checkout: moving from develop to master
+79fa2e8 HEAD@{14}: checkout: moving from feature4 to develop
+fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{15}: commit (merge): fixed merge issue
+8a11b6c HEAD@{16}: checkout: moving from 2eaf0cb4690409b6a3d3191e6ade4d900b661f69 to feature4
+2eaf0cb HEAD@{17}: commit: fixed merge issue
+8a11b6c HEAD@{18}: rebase (start): checkout feature4
+79fa2e8 HEAD@{19}: checkout: moving from feature4 to develop
+8a11b6c HEAD@{20}: checkout: moving from develop to feature4
+79fa2e8 HEAD@{21}: checkout: moving from feature3 to develop
+79fa2e8 HEAD@{22}: checkout: moving from develop to feature3
