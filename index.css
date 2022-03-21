@@ -1,6 +1,7 @@
 body {
   background-color: aqua;
 }
-.logo {
-  padding-top: 40px;
+/* main wrapper */
+.main-wraooer__img {
+  border-radius: 10px;
 }
