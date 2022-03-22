@@ -20,7 +20,7 @@ e215760 (feature1) HEAD@{14}: commit: added images in the index.html file
 4496e15 HEAD@{18}: checkout: moving from master to develop
 4496e15 HEAD@{19}: commit (initial): added new file 'readme.md'
 
-// second half from 1-15 points
+// Repeat steps 9-15
 
 fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{0}: checkout: moving from feature4 to master
 fb75693 (HEAD -> master, origin/master, feature4, feature3, feature2, feature1, develop) HEAD@{1}: checkout: moving from feature3 to feature4
